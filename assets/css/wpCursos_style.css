@@ -1,0 +1,93 @@
+/*
+
+ * Folha de estilo WpCursos
+
+*/
+
+.entry-content {
+
+	margin-top: 50px;
+
+}
+.custom-post-list-item {
+	margin-top: 100px;
+}
+.wpCurso-conteudo {
+
+	display: inline;
+
+	float: left;
+
+	width: 65%;
+
+}
+
+
+
+.wpCurso-meta {
+
+	display: inline;
+	float: left;
+	width: 32%;
+	margin-left: 1%;
+	background: #184B75;
+	outline: 1px solid #fff;
+	box-shadow: 0px 0px 5px #333;
+	padding: 5px;
+	color: #fff;
+
+}
+
+
+
+table.table-wpc {
+
+	width: 100%;
+
+	margin:  20px 0;
+
+}
+
+table.table-wpc thead {
+
+	background: #f0f0f0;
+
+	font-weight: bold;
+
+	color: #606060;
+
+}
+
+table.table-wpc thead th {
+
+	text-align: center;
+
+	padding: 5px 0px;
+
+}
+
+table.table-wpc tbody {
+
+	margin-top: 10px;
+
+}
+
+table.table-wpc tbody tr {
+
+	border-bottom: 1px solid #cfdcfd;
+
+}
+
+table.table-wpc tbody tr:hover {
+
+	background: #f8f8f8;
+
+}
+
+table.table-wpc tbody td{
+
+	padding: 10px 0;
+
+	text-align: center;
+
+}
